@@ -26,6 +26,7 @@ Here are some of my key repositories that show my learning and growth in cyberse
 - [CTF-Writeups](https://github.com/G-willis/CTF-Writeups) — My Capture The Flag writeups and solutions from TryHackMe or Hack The Box labs.
 
 #LEARNING LOGS (example entries)
+
 I document my cybersecurity learning journey every week to track my progress:
 
 - October 2025: Focused on GitHub setup, understanding Git, and building my profile README.  
