@@ -19,6 +19,7 @@ Other: OSINT techniques (crt.sh, Shodan basics)
 
 
 #FEATURED REPOS
+
 Here are some of my key repositories that show my learning and growth in cybersecurity and ethical hacking:
 
 - [Recon-Tools-Practice](https://github.com/G-willis/Recon-Tools-Practice) — My notes and small projects while learning Nmap, Nikto, and other reconnaissance tools.
