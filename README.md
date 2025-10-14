@@ -1,6 +1,6 @@
 #INTRO
 
--Hi I'm Godwill aspiring penetration tester and community oral health student based in Kenya. I'm learning Python, Kali Linux, and practical pentesting skills (recon, web app testing, and privilege escalation). This profile showcases my learning progress, projects, and write-ups as I build toward a career in offensive security.
+-Hi I'm Godwill Ushindi aspiring penetration tester and community oral health student based in Kenya. I'm learning Python, Kali Linux, and practical pentesting skills (recon, web app testing, and privilege escalation). This profile showcases my learning progress, projects, and write-ups as I build toward a career in offensive security.
 
 #GOAL
 
