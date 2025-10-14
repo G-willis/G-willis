@@ -12,35 +12,39 @@
 
 #SKILLS AND TOOLS
 
-**Languages:** Python (learning)  
-**OS:** Kali Linux  
-**Tools:** Nmap, Burp Suite (learning), Metasploit (basic), Git/GitHub  
-**Other:** OSINT techniques (crt.sh, Shodan basics)
+Languages: Python (learning)  
+OS:Kali Linux  
+Tools: Nmap, Burp Suite (learning), Metasploit (basic), Git/GitHub  
+Other: OSINT techniques (crt.sh, Shodan basics)
 
 
 #FEATURED REPOS
+Here are some of my key repositories that show my learning and growth in cybersecurity and ethical hacking:
 
-- **ctf-writeups** — Step-by-step, sanitized write-ups for TryHackMe and beginner CTF boxes. Each writeup includes commands, reasoning, and lessons learned.
-- **recon-scripts** — Small, well-documented Python/Bash scripts for subdomain enumeration and nmap automation. Tests & usage examples included.
-- **pentest-notes** — Cheatsheets: Nmap commands, privilege-escalation checklists, OWASP summaries.
-- **portfolio-site** — Simple GitHub Pages site that lists projects and links to writeups.
+- [Recon-Tools-Practice](https://github.com/G-willis/Recon-Tools-Practice) — My notes and small projects while learning Nmap, Nikto, and other reconnaissance tools.
+- [Python-for-Cybersecurity](https://github.com/G-willis/Python-for-Cybersecurity) — Scripts I’m building as I learn Python for pentesting.
+- [CTF-Writeups](https://github.com/G-willis/CTF-Writeups) — My Capture The Flag writeups and solutions from TryHackMe or Hack The Box labs.
 
 #LEARNING LOGS (example entries)
+I document my cybersecurity learning journey every week to track my progress:
 
-- 2025-10-01 — Completed TryHackMe: Recon-101 (writeup added)  
-- 2025-10-07 — Built `enum_subs.py` to query crt.sh and save results  
-- 2025-10-14 — Practiced Nmap scans and documented top 10 useful flags
+- October 2025: Focused on GitHub setup, understanding Git, and building my profile README.  
+- November 2025: Starting deeper reconnaissance practice — mastering Nmap, whois, nslookup, and OSINT tools.  
+- December 2025: Plan to begin vulnerability scanning and exploit research. 
 
 # HOW I DOCUMENT MY WORK
 
-- Every writeup has a **Responsible Use** section: I never test systems without permission.  
-- Screenshots are sanitized to remove IPs/usernames/flags.  
-- Code includes usage examples and tests where appropriate.
+I believe in learning by doing — and writing everything down.  
+Here’s how I organize my process:
+
+- I take notes in Notion and Markdown files.
+- Each topic (like Nmap, Metasploit, etc.) gets its own folder in a repo.
+- I share summaries and key takeaways here on GitHub so others can learn too.
 
 
 # CONTACT
-- LinkedIn: *add your LinkedIn URL*  
-- Email: *add your email*
+- LinkedIn: www.linkedin.com/in/godwill-ushindi-707b92353
+- Email: godwillushindi@gmail.com
 
 
 # Responsible Use & Ethics
