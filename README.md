@@ -25,9 +25,6 @@
 - **pentest-notes** — Cheatsheets: Nmap commands, privilege-escalation checklists, OWASP summaries.
 - **portfolio-site** — Simple GitHub Pages site that lists projects and links to writeups.
 
-*(Replace these placeholders with links once the repos exist.)*
-
-
 #LEARNING LOGS (example entries)
 
 - 2025-10-01 — Completed TryHackMe: Recon-101 (writeup added)  
